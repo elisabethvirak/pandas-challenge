@@ -3,6 +3,18 @@
 Heroes of Pymoli is a free-to-play game, but players are encouraged to purchase optional items that enhance their playing experience.
 The purpose of this project is to generate a report that breaks down the game's purchasing data into meaningful insights.
 
+  1. Find the number of items being sold, avg price, total number of purchases, and the total revenue from the game ![](images/)
+
+  2. Find the percentage and Count of Male, Female, and Other / Non-Disclosed Players ![](images/) Obtain purchase count, avg. purchase price, avg. purchase total per person etc. by gender ![](images/)
+
+  3. Organize players based on age groups and calculate the total players per age group ![](images/) Obtain purchase count, avg. purchase price, avg. purchase total per person etc. based on age groups ![](images/)
+ 
+  4. Calculate the avg purchase count, avg purchase price, and total purchase value of all playersFocus on the top spenders ![](images/)
+  
+  5. Find the most popular items based on total purchase count ![](images/)
+ 
+  6. Focus on the most profitable items by organizing by the total purchase value (purchase count * item price) ![](images/)
+
 ## Three Obervable Trends
 
 >One very clear trend is that there are significantly more male players than female. However, the female players tend to spend more on their purchases than their male counterparts.
